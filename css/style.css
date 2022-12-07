@@ -61,7 +61,11 @@ li a {
     /* border: 1px solid black; */
     height: 91vh;
     width: 100%;
-    /* margin-top: 2rem; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
     /* background-image: url('../images/back-img-01.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,11 +82,11 @@ li a {
     background-color: black;
     color: white;
     /* border: 1px solid red; */
-    position: absolute;
+    /* position: absolute;
     top: 50%;
     left: 50%;
     margin-top: 3rem;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
     width: 70%;
     height: 30rem;
 
