@@ -91,7 +91,7 @@ li a {
 }
 
 .body-content-wraper{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 94%;
     width: 100%;
     display: flex;
@@ -101,7 +101,7 @@ li a {
     row-gap: 1rem;
 }
 
-.home-btn{
+.body-content-wraper .home-btn{
     width: 40%;
     height: 2rem;
     font-size: .9rem;
