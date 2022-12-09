@@ -127,3 +127,12 @@ li a {
    
     box-shadow: none;
 }
+
+
+@media (max-width:450px) {
+    .home-body .body-contant .body-content-wraper a{
+       
+        font-size: 1rem;
+       
+    }
+}
