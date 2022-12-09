@@ -112,12 +112,16 @@ li a {
 .body-content-wraper .home-btn{
     width: 40%;
     height: 2.5rem;
-    font-size: .9rem;
+    font-size: 1.2rem;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 5px;
     font-weight: bold;
     box-shadow: 2px 3px 3px 2px black;
-    
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .body-content-wraper .home-btn:hover{
    
