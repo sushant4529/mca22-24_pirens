@@ -109,7 +109,7 @@ li a {
     row-gap: 1rem;
 }
 
-.body-content-wraper a{
+.home-body .body-contant .body-content-wraper a{
     width: 40%;
     height: 2.5rem;
     font-size: 1.2rem;
@@ -123,7 +123,7 @@ li a {
     align-items: center;
     justify-content: center;
 }
-.body-content-wraper .home-btn:hover{
+.home-body .body-contant .body-content-wraper a:hover{
    
     box-shadow: none;
 }
