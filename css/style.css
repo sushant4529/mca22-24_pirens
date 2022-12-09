@@ -109,7 +109,7 @@ li a {
     row-gap: 1rem;
 }
 
-.body-content-wraper .home-btn{
+.body-content-wraper a{
     width: 40%;
     height: 2.5rem;
     font-size: 1.2rem;
